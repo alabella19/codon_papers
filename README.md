@@ -20,3 +20,9 @@ This folder contains papers that are relevant for codon usage analyses. This is 
 14. Frumkin I, Lajoie MJ, Gregg CJ, Hornung G, Church GM, Pilpel Y. Codon usage of highly expressed genes affects proteome-wide translation efficiency. Proceedings of the National Academy of Sciences. 2018 May 22;115(21):E4940-9.
 15. Yannai A, Katz S, Hershberg R. The codon usage of lowly expressed genes is subject to natural selection. Genome biology and evolution. 2018 May;10(5):1237-46.
 16. Lebeuf-Taylor E, McCloskey N, Bailey SF, Hinz A, Kassen R. The distribution of fitness effects among synonymous mutations in a gene under directional selection. Elife. 2019 Jul 19;8:e45952.
+
+
+## Reviews of Codon Usage
+
+1. Hershberg R, Petrov DA. Selection on codon bias. Annual review of genetics. 2008 Dec 1;42:287-99.
+2. Plotkin JB, Kudla G. Synonymous but not the same: the causes and consequences of codon bias. Nature Reviews Genetics. 2011 Jan;12(1):32-42.
