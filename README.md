@@ -50,3 +50,12 @@ Species Specific tRNA Adaptation Index (stAI-calc) - Sabi R, Volvovitch Daniel R
 Selection test (S-test) - Reis MD, Savva R, Wernisch L. Solving the riddle of codon usage preferences: a test for translational selection. Nucleic acids research. 2004 Jan 1;32(17):5036-44.
 
 Selection test (S-test) - dos Reis M, Wernisch L. Estimating translational selection in eukaryotic genomes. Molecular Biology and Evolution. 2009 Feb 1;26(2):451-61.
+
+## Codon Usage in Fungi
+
+1. Badet T, Peyraud R, Mbengue M, Navaud O, Derbyshire M, Oliver RP, Barbacci A, Raffaele S. Codon optimization underpins generalist parasitism in fungi. Elife. 2017 Feb 3;6:e22472.
+2. LaBella AL, Opulente DA, Steenwyk JL, Hittinger CT, Rokas A. Variation and selection on codon usage bias across an entire subphylum. PLoS genetics. 2019 Jul 31;15(7):e1008304.
+3. LaBella AL, Opulente DA, Steenwyk JL, Hittinger CT, Rokas A. Signatures of optimal codon usage in metabolic genes inform budding yeast ecology. PLoS biology. 2021 Apr 19;19(4):e3001185.
+4. Wint R, Salamov A, Grigoriev IV. Kingdom-Wide Analysis of Fungal Protein-Coding and tRNA Genes Reveals Conserved Patterns of Adaptive Evolution. Molecular biology and evolution. 2022 Feb;39(2):msab372.
+5. Shen X, Song S, Li C, Zhang J. Synonymous mutations in representative yeast genes are mostly strongly non-neutral. Nature. 2022 Jun 8:1-7.
+6. Nalabothu, R, Fisher K, LaBella, AL, Meyer T, Opulente DA, Wolters JF, Rokas A, Hittinger CT. Codon optimization, not gene content, predicts XYLose metabolism in budding yeasts. BioRXiv
