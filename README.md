@@ -26,3 +26,13 @@ This folder contains papers that are relevant for codon usage analyses. This is 
 
 1. Hershberg R, Petrov DA. Selection on codon bias. Annual review of genetics. 2008 Dec 1;42:287-99.
 2. Plotkin JB, Kudla G. Synonymous but not the same: the causes and consequences of codon bias. Nature Reviews Genetics. 2011 Jan;12(1):32-42.
+3. Sauna ZE, Kimchi-Sarfaty C. Understanding the contribution of synonymous mutations to human disease. Nature Reviews Genetics. 2011 Oct;12(10):683-91.
+4. Novoa EM, de Pouplana LR. Speeding with control: codon usage, tRNAs, and ribosomes. Trends in Genetics. 2012 Nov 1;28(11):574-81.
+5. Chaney JL, Clark PL. Roles for synonymous codon usage in protein biogenesis. Annual review of biophysics. 2015 Jun 22;44:143-66.
+6. Richter JD, Coller J. Pausing on polyribosomes: make way for elongation in translational control. Cell. 2015 Oct 8;163(2):292-300.
+7. Komar AA. The Yin and Yang of codon usage. Human molecular genetics. 2016 Oct 1;25(R2):R77-85.
+8. Supek F. The code of silence: widespread associations between synonymous codon biases and gene function. Journal of molecular evolution. 2016 Jan;82(1):65-73.
+9. Hanson G, Coller J. Codon optimality, bias and usage in translation and mRNA decay. Nature reviews Molecular cell biology. 2018 Jan;19(1):20-30.
+10. Liu Y. A code within the genetic code: codon usage regulates co-translational protein folding. Cell Communication and Signaling. 2020 Dec;18(1):1-9.
+11. Iriarte A, Lamolle G, Musto H. Codon usage bias: an endless tale. Journal of Molecular Evolution. 2021 Dec;89(9):589-93.
+12. Liu Y, Yang Q, Zhao F. Synonymous but not silent: the codon usage code for gene expression and protein folding. Annual review of biochemistry. 2021 Jun 6;90:375.
