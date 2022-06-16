@@ -36,3 +36,17 @@ This folder contains papers that are relevant for codon usage analyses. This is 
 10. Liu Y. A code within the genetic code: codon usage regulates co-translational protein folding. Cell Communication and Signaling. 2020 Dec;18(1):1-9.
 11. Iriarte A, Lamolle G, Musto H. Codon usage bias: an endless tale. Journal of Molecular Evolution. 2021 Dec;89(9):589-93.
 12. Liu Y, Yang Q, Zhao F. Synonymous but not silent: the codon usage code for gene expression and protein folding. Annual review of biochemistry. 2021 Jun 6;90:375.
+
+## Methods of Codon Analysis
+
+Codon Adaptation Index (CAI) - Sharp PM, Li WH. The codon adaptation index-a measure of directional synonymous codon usage bias, and its potential applications. Nucleic acids research. 1987 Feb 11;15(3):1281-95.
+
+tRNAscan-SE - Chan PP, Lowe TM. tRNAscan-SE: searching for tRNA genes in genomic sequences. InGene prediction 2019 (pp. 1-14). Humana, New York, NY.
+
+DAMBE (can calculate RSCU, CAI etc) - Xia X, Xie Z. DAMBE: software package for data analysis in molecular biology and evolution. Journal of heredity. 2001 Jul 1;92(4):371-3.
+
+Species Specific tRNA Adaptation Index (stAI-calc) - Sabi R, Volvovitch Daniel R, Tuller T. stAIcalc: tRNA adaptation index calculator based on species-specific weights. Bioinformatics. 2017 Feb 15;33(4):589-91.
+
+Selection test (S-test) - Reis MD, Savva R, Wernisch L. Solving the riddle of codon usage preferences: a test for translational selection. Nucleic acids research. 2004 Jan 1;32(17):5036-44.
+
+Selection test (S-test) - dos Reis M, Wernisch L. Estimating translational selection in eukaryotic genomes. Molecular Biology and Evolution. 2009 Feb 1;26(2):451-61.
