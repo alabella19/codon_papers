@@ -3,11 +3,15 @@ This folder contains papers that are relevant for codon usage analyses. This is 
 
 ## Before you start, you  may want a refersher on transcription and translation. Here are some videos:
 https://www.youtube.com/watch?v=oefAI2x2CQM 
+
 https://www.youtube.com/watch?v=oefAI2x2CQM
+
 https://www.youtube.com/watch?v=LsEYgwuP6ko
+
 
 Reviews of codon usage and optimiation
 https://www.youtube.com/watch?v=OEp3CNt5lFs
+
 https://www.youtube.com/watch?v=zQUJvmJ6sfU
 
 
